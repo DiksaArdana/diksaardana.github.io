@@ -1,15 +1,21 @@
 nav{
-    background-color: #1b4332;
+    background-color: #1d3557;
 }
 #home{
-    background-color: #b7e4c7;
+    background-color: #a8dadc;
+}
+#project{
+    background-color: #a8dadc;
 }
 #contact-me{
-    background-color: #b7e4c7;
+    background-color: #a8dadc;
 }
 footer{
-    background-color: #081c15;
+    background-color: #1d3557;
 }
 section{
     padding-top: 5rem;
+}
+.btn-colors{
+    background-color: #457b9d;
 }
